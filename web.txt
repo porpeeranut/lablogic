@@ -1,3 +1,6 @@
 https://github.com/pheaver/netlist-verilog/tree/master/verilog/examples
 https://github.com/smhegde/Verilog
 http://www.circuitstoday.com/flip-flop-conversion#SRtoJK
+
+4-bit counter from JK flip-flops
+http://courses.cs.vt.edu/~cs2505/spring2012/Notes/T36_Counters.pdf
