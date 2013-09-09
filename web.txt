@@ -1,2 +1,3 @@
 https://github.com/pheaver/netlist-verilog/tree/master/verilog/examples
 https://github.com/smhegde/Verilog
+http://www.circuitstoday.com/flip-flop-conversion#SRtoJK
