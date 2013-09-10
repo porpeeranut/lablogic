@@ -14,3 +14,6 @@ https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_IIb.pd
 https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_III.pdf
 https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_IV.pdf
 https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_V.pdf
+
+4-bit counter from JK flip-flops
+https://dl.dropboxusercontent.com/u/105068986/logic/1235326_666027656740753_304391257_n.jpg
