@@ -6,3 +6,11 @@ http://www.circuitstoday.com/flip-flop-conversion#SRtoJK
 http://courses.cs.vt.edu/~cs2505/spring2012/Notes/T36_Counters.pdf
 
 http://www.ece.ucsb.edu/Faculty/Johnson/ECE152A/L6%20-%20Latches,%20the%20D%20Flip-Flop%20and%20Counter%20Design.pdf
+
+
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_I.pdf
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_II.pdf
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_IIb.pdf
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_III.pdf
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_IV.pdf
+https://dl.dropboxusercontent.com/u/105068986/logic/SequentialLogicDesign_V.pdf
