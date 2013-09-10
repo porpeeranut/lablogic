@@ -4,3 +4,5 @@ http://www.circuitstoday.com/flip-flop-conversion#SRtoJK
 
 4-bit counter from JK flip-flops
 http://courses.cs.vt.edu/~cs2505/spring2012/Notes/T36_Counters.pdf
+
+http://www.ece.ucsb.edu/Faculty/Johnson/ECE152A/L6%20-%20Latches,%20the%20D%20Flip-Flop%20and%20Counter%20Design.pdf
